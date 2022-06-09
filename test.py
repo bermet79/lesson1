@@ -1,8 +1,8 @@
 
-# def hello():
-#     print("hello world")
-
-# hello()
+def hello():
+    print("hello world")
+    return 'hello'
+print(hello())
 
 
 # git rm --cached test.py
